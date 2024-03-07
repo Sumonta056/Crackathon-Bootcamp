@@ -1,6 +1,6 @@
 <div align = "center">
-
-### 👋 Crackathon Bootcamp
+  
+# 👨‍💻 Crackathon Bootcamp 👨‍💻
 
 ------ **📚 Intra SWE Hackathon 2024 - SWE Society 📚** ------
 
