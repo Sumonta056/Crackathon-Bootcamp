@@ -20,12 +20,12 @@ Overview: Join us for a week of targeted training sessions led by experienced gr
 | **Days** |  **Topic Covered**   |     **Instructor**     |                            **Resource**                             |
 | :------: | :------------------: | :--------------------: | :-----------------------------------------------------------------: |
 | Day - 1  |   Hackathon Basic    | Sumonta, Meheraj, Nafi |  **( [👉 Click Here](./Day%20-%201%20-%20Hackathon%20Basics/) )**   |
-| Day - 2  |   Javascript Basic   |         Shawon         |  **( [👉 Click Here](./Day%20-%202%20-%20Javascript%20Basics/) )**  |
-| Day - 3  |  Javascript Advance  |         Shawon         | **( [👉 Click Here](./Day%20-%203%20-%20Javascript%20Advance/) )**  |
-| Day - 4  |     CSS Styling      |        Meheraj         |     **( [👉 Click Here](./Day%20-%204%20-%20CSS%20Styling/) )**     |
-| Day - 5  |       React JS       |        Sumonta         |      **( [👉 Click Here](./Day%20-%205%20-%20React%20JS//) )**      |
-| Day - 6  | Backend + Express JS |           ?            | **( [👉 Click Here](./Day%20-%206%20-%20Backend%20+%20Express/) )** |
-| Day - 7  |     API + Axios      |           ?            |    **( [👉 Click Here](./Day%20-%207%20-%20API%20+%20Axios/) )**    |
+| Day - 2  |     CSS Styling      |        Meheraj         |     **( [👉 Click Here](./Day%20-%204%20-%20CSS%20Styling/) )**     |
+| Day - 3  |   Javascript Basic   |         Shawon         |  **( [👉 Click Here](./Day%20-%202%20-%20Javascript%20Basics/) )**  |
+| Day - 4  |  Javascript Advance  |         Shawon         | **( [👉 Click Here](./Day%20-%203%20-%20Javascript%20Advance/) )**  |
+| Day - 5  |       React JS       |        Emon Sir        |      **( [👉 Click Here](./Day%20-%205%20-%20React%20JS//) )**      |
+| Day - 6  | Backend + Express JS |         Shawon         | **( [👉 Click Here](./Day%20-%206%20-%20Backend%20+%20Express/) )** |
+| Day - 7  |     API + Axios      |        Sumonta         |    **( [👉 Click Here](./Day%20-%207%20-%20API%20+%20Axios/) )**    |
 
 <hr>
 
@@ -33,7 +33,8 @@ Overview: Join us for a week of targeted training sessions led by experienced gr
 
 - Date: Will be announced soon
 - Location: Online
-  Overview: Engage in practical exercises and hands-on projects to apply the concepts learned in the training phase. Collaborate on group projects, receive regular mentorship support, and participate in code reviews for constructive feedback. Build confidence, reinforce your training, and hone your problem-solving abilities during this crucial phase.
+
+Overview: Engage in practical exercises and hands-on projects to apply the concepts learned in the training phase. Collaborate on group projects, receive regular mentorship support, and participate in code reviews for constructive feedback. Build confidence, reinforce your training, and hone your problem-solving abilities during this crucial phase.
 
 <hr>
 
@@ -41,7 +42,8 @@ Overview: Join us for a week of targeted training sessions led by experienced gr
 
 - Date: Will be announced soon
 - Location: IICT, SUST
-  Overview: The grand finale! Put your skills to the test in a 24-hour hackathon featuring real-world challenges. Teams formed during the practice phase will collaborate to devise innovative solutions, showcase creativity, and demonstrate technical skills. Join us for a platform of healthy competition, knowledge exchange, networking, and cross-functional collaboration. Celebrate the skills and expertise of our SWE department!
+
+Overview: The grand finale! Put your skills to the test in a 24-hour hackathon featuring real-world challenges. Teams formed during the practice phase will collaborate to devise innovative solutions, showcase creativity, and demonstrate technical skills. Join us for a platform of healthy competition, knowledge exchange, networking, and cross-functional collaboration. Celebrate the skills and expertise of our SWE department!
 
 <hr>
 
