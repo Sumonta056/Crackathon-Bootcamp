@@ -1,0 +1,26 @@
+.pixel-div {
+    font-size: 30px;
+}
+
+.em-container {
+    font-size: 16px;
+}
+
+.em-heading {
+    font-size: 2em;
+}
+
+.em-item {
+    font-size: 1em;
+}
+
+.rem-parent {
+    font-size: 16px;
+}
+
+.rem-heading {
+    font-size: 2rem;
+}
+.rem-child {
+    font-size: 1rem;
+}
