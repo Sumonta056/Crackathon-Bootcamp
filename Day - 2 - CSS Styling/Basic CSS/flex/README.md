@@ -1,5 +1,7 @@
 # FLEX properties
 
+[Click Here](https://yoksel.github.io/flex-cheatsheet/) to playaround flex properties 
+
 ## flex-direction
 This means which direction you want your flex flow
 - row `DEFAULT`
