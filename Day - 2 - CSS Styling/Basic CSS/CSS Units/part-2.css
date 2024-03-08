@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.canvas {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 58, 58, 0.458);    
+}
+
+.percent {
+    padding: 20px;
+    font-size: 30px;
+    width: 60%;
+    background-color: black;
+    color: white;
+}
+
+.calculate {
+    padding: 20px;
+    font-size: 30px;
+    width: calc(60% + 100px);
+    background-color: blue;
+    color: white;
+}

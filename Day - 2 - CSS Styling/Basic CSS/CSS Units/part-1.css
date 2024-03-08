@@ -2,25 +2,28 @@
     font-size: 30px;
 }
 
-.em-container {
-    font-size: 16px;
+.em-parent {
+    font-size: 8px;
+    background-color: bisque;
 }
 
 .em-heading {
-    font-size: 2em;
+    font-size: 5em;
+    color: blue;
 }
-
-.em-item {
-    font-size: 1em;
+.em-child {
+    font-size: 2em;
 }
 
 .rem-parent {
     font-size: 16px;
+    background-color: cyan;
 }
 
 .rem-heading {
-    font-size: 2rem;
+    font-size: 2.5rem;
+    color: blue;
 }
 .rem-child {
-    font-size: 1rem;
+    font-size: 2rem;
 }
