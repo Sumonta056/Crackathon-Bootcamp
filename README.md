@@ -20,7 +20,7 @@ Overview: Join us for a week of targeted training sessions led by experienced gr
 | **Days** |  **Topic Covered**   |     **Instructor**     |                            **Resource**                             |
 | :------: | :------------------: | :--------------------: | :-----------------------------------------------------------------: |
 | Day - 1  |   Hackathon Basic    | Sumonta, Meheraj, Nafi |  **( [👉 Click Here](./Day%20-%201%20-%20Hackathon%20Basics/) )**   |
-| Day - 2  |     CSS Styling      |        Meheraj         |     **( [👉 Click Here](.Day%20-%202%20-%20CSS%20Styling/) )**     |
+| Day - 2  |     CSS Styling      |        Meheraj         |     **( [👉 Click Here](./Day%20-%202%20-%20CSS%20Styling/) )**     |
 | Day - 3  |   Javascript Basic   |         Shawon         |  **( [👉 Click Here](./Day%20-%202%20-%20Javascript%20Basics/) )**  |
 | Day - 4  |  Javascript Advance  |         Shawon         | **( [👉 Click Here](./Day%20-%203%20-%20Javascript%20Advance/) )**  |
 | Day - 5  |       React JS       |        Emon Sir        |      **( [👉 Click Here](./Day%20-%205%20-%20React%20JS//) )**      |
