@@ -4,6 +4,8 @@
     background-color: #242526;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    position: fixed;
+    top: 0px;
 }
 
 /* search with logo */
