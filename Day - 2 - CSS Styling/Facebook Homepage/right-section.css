@@ -1,0 +1,8 @@
+.right-section {
+    width: 360px;    
+    gap: 20px;
+    color: white;    
+    font-size: 17px;
+    font-family: "Segoe UI Historic", sans-serif;
+    letter-spacing: .4px;
+}

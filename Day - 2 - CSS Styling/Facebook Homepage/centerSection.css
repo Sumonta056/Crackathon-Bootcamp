@@ -1,0 +1,49 @@
+.center-section {
+    width: 600px;    
+    gap: 20px;
+    color: white;    
+    font-size: 17px;
+    font-family: "Segoe UI Historic", sans-serif;
+    letter-spacing: .4px;
+}
+
+.story-section {
+    display: flex;
+    gap: 20px;
+    padding: 20px 0px;    
+    height: 266px;
+    width: 650px;
+    overflow-x: hidden;
+}
+
+.story {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 141px;
+    min-width: 141px;
+    background-color: #A8BBC2;
+    border-radius: 20px;
+    gap: 10px;   
+    overflow: hidden; 
+}
+
+.story img {
+    max-height: 140px;
+    object-fit: cover;
+}
+
+.dp {
+    margin: 10px;
+    width: 35px;
+    height: 35px;
+    border: 3px solid #1877F2;
+    border-radius: 50%;
+}
+
+.story-footer {
+    padding: 15px;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: .5px;
+}

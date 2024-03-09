@@ -1,7 +1,12 @@
 .left-section {
     width: 360px;
     color: white;
-    font-size: 15px;
+    font-size: 1৭px;    
+    font-family: "Segoe UI Historic", sans-serif;
+    letter-spacing: .4px;
+    height: calc(100vh - 56px);
+    overflow: scroll;
+    overflow-x: hidden;
 }
 
 .left-content-btn {
@@ -9,11 +14,34 @@
     height: 50px;    
     display: flex;
     align-items: center;
-    justify-content: space-around;    
-    background-color: aquamarine;
+    justify-content: start;    
+    padding-left: 20px;
+    padding-top: 5px;
+    gap: 15px;
 }
+
+.left-content-btn:hover {
+    background-color: #3a3b3c;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
 .left-content-btn img {
-    width: 50px;
-    height: 50px;
+    width: 35px;
+    height: 35px;
     border-radius: 50%;    
+}
+
+.left-content-2-heading {
+    padding: 10px 20px;    
+    margin-top: -15px;
+    margin-bottom: -10px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.edit-btn {
+    color: #1877F2;
 }
