@@ -1,5 +1,6 @@
 # Day 2 : CSS Styling using CSS
 
+For Today's Slide [click here](https://www.canva.com/design/DAF-7TKFLsk/HGrL8nb7Fkcgc1kFeTs8ew/edit?utm_content=DAF-7TKFLsk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 See CSS basic attributes form [W3 School](https://www.w3schools.com/css/).
 
 # Other links

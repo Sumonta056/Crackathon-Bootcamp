@@ -16,9 +16,9 @@ body {
     padding: 20px;
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    align-items: center;
+    justify-content: center;    
     align-content: center;
+    align-items: center;
     column-gap: 0em;
     row-gap: 0em;
     flex-wrap: wrap;
