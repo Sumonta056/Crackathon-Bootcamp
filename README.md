@@ -29,6 +29,13 @@ Overview: Join us for a week of targeted training sessions led by experienced gr
 
 <hr>
 
+Others Resources : Practice Problem Statements of Previous Hackathons
+
+| **Serial** |         **Topic Covered**         | **Instructor** |                                 **Resources**                                 |
+| :--------: | :-------------------------------: | :------------: | :---------------------------------------------------------------------------: |
+|     1      | Past Hackathon Problem Statements |    Sumonta     | **( [👉 Click Here](./Past%20Hackathons%20Problem%20Statements/README.md) )** |
+|     2      |     Complete GitHub Resources     |    Sumonta     |   **( [👉 Click Here](./GitHub%20Colllaboration%20Resources/README.md) )**    |
+
 ## 💻 Phase Two: Practice (Duration: 4 Weeks)
 
 - Date: Will be announced soon
