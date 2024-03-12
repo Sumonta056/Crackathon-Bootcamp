@@ -23,9 +23,10 @@ Overview: Join us for a week of targeted training sessions led by experienced gr
 | Day - 2  |     CSS Styling      |        Meheraj         |     **( [👉 Click Here](./Day%20-%202%20-%20CSS%20Styling/) )**     |
 | Day - 3  |   Javascript Basic   |         Shawon         |  **( [👉 Click Here](./Day%20-%202%20-%20Javascript%20Basics/) )**  |
 | Day - 4  |  Javascript Advance  |         Shawon         | **( [👉 Click Here](./Day%20-%203%20-%20Javascript%20Advance/) )**  |
-| Day - 5  |       React JS       |        Emon Sir        |      **( [👉 Click Here](./Day%20-%205%20-%20React%20JS//) )**      |
-| Day - 6  | Backend + Express JS |         Shawon         | **( [👉 Click Here](./Day%20-%206%20-%20Backend%20+%20Express/) )** |
-| Day - 7  |     API + Axios      |        Sumonta         |    **( [👉 Click Here](./Day%20-%207%20-%20API%20+%20Axios/) )**    |
+| Day - 5  |  Javascript Advance - 2 |         Shawon         | **( [👉 Click Here](./Day%20-%203%20-%20Javascript%20Advance/) )**  |
+| Day - 6  |       React JS       |        Emon Sir, Sumonta        |      **( [👉 Click Here](./Day%20-%205%20-%20React%20JS//) )**      |
+| Day - 7  | Backend + Express JS |         Shawon         | **( [👉 Click Here](./Day%20-%206%20-%20Backend%20+%20Express/) )** |
+| Day - 8  |     API + Axios      |        Sumonta         |    **( [👉 Click Here](./Day%20-%207%20-%20API%20+%20Axios/) )**    |
 
 <hr>
 
