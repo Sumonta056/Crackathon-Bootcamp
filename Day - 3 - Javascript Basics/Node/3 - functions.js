@@ -17,7 +17,7 @@ let arrowFunction = (a, b) => {
 let arrowFunctionShort = (a, b) => a + b;
 
 // Callback Function
-function performOperation(a, b, callback) {
+function performOperation(a, b, c, callback) {
   return callback(a, b);
 }
 
@@ -25,6 +25,12 @@ function performOperation(a, b, callback) {
 function add(a, b) {
   return a + b;
 }
+
+function sub(a, b) {
+  return a - b;
+}
+
+console.log(performOperation(5, 3, (a, b) => a * b));
 
 // Function calls
 console.log("Regular Function:", regularFunction(2, 3));

@@ -13,6 +13,7 @@ let person = {
       "Hello, my name is " + this.name + " and I'm " + this.age + " years old."
     );
   },
+  3: "sds",
 };
 
 // Accessing object properties
@@ -26,6 +27,7 @@ person.greet(); // Output: Hello, my name is John Doe and I'm 30 years old.
 
 // Adding new properties to the object
 person.email = "john@example.com";
+console.log(person);
 console.log(person.email); // Output: john@example.com
 
 // Modifying existing properties
@@ -34,4 +36,9 @@ console.log(person.age); // Output: 32
 
 // Deleting a property
 delete person.hobbies;
+
+console.log(Object.keys(person));
+for (var i = 0; i < Object.keys(person).length; i++) {
+  console.log( person[Object.keys(person)]);
+}
 console.log(person.hobbies); // Output: undefined

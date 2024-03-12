@@ -9,6 +9,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Adding event listener to the button
   changeTextBtn.addEventListener("click", function () {
+    const newChild = document.createElement("li");
+    
+    newChild.textContent = "New Child 4";
+    childList.appendChild(newChild);
+
     // Changing text of the parent element
     parentElement.querySelector("h2").textContent = "New Parent Title";
 
