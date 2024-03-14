@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=M+PLUS+Code+Latin:wght@100..700&family=Madimi+One&display=swap');
+
+:root {
+    --primary-color: #5ce0e5; 
+    --secondary-color: #ffffff;   
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Bebas Neue", sans-serif;
+    letter-spacing: 2px;
+}
+
+.canvas {
+    background-color: #000101;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+}
+
+.left-canvas {
+    width: 30%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    gap: 20px;
+    color: var(--primary-color);
+}
+
+.left-canvas img {
+    margin: 30px;
+    width: 50%;
+    height: auto;
+}
+
+.left-card {
+    width: 80%;
+    color: #000101;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;    
+    border-radius: 5px;
+    background-color: var(--primary-color);
+    border-radius: 20px;
+}
+
+.left-card p {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.main-game-canvas {
+    display: flex;
+    flex-wrap: wrap;
+    width: 70vw;
+    padding: 50px;
+}
+
+.bubble {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: var(--primary-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 600;
+    color: #000101;
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.3s;
+}
+
+.bubble:hover {
+    transform: scale(1.5);
+    background-color: #ffffff;
+    color: #000101;
+}
+
+.gameover {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    letter-spacing: 3px;
+    gap: 20px;
+    color: aqua;
+}

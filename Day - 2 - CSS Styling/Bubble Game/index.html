@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bubble Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>    
+    <div class="canvas">
+        <div class="left-canvas">
+            <img src="logo.gif" alt="logo">
+            <div class="left-card">
+                <h2>Score</h2>
+                <p id="score">0</p>
+            </div>
+            <div class="left-card">
+                <h2>Time</h2>
+                <p id="current-time">10</p>
+            </div>
+            <div class="left-card">
+                <h2>Target</h2>
+                <p id="Target-value">10</p>
+            </div>
+        </div>
+        <div class="main-game-canvas">
+            
+        </div>
+    </div>
+    <audio id="clock-ticking">
+        <source src="clock.mp3" type="audio/mpeg">
+    </audio>
+    <audio id="success">
+        <source src="correctGuess.mp3" type="audio/mpeg">
+    </audio>
+    <audio id="wrong">
+        <source src="wrong.mp3" type="audio/mpeg">
+    </audio>
+    <script src="script.js"></script>
+</body>
+</html>

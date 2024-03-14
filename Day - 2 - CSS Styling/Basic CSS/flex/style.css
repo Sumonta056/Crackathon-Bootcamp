@@ -16,11 +16,10 @@ body {
     padding: 20px;
     display: flex;
     flex-direction: row;
-    justify-content: center;    
-    align-content: center;
+    justify-content: end;    
+    align-content: end;
     align-items: center;
-    column-gap: 0em;
-    row-gap: 0em;
+    gap: 0em;
     flex-wrap: wrap;
     padding: 10px;
 }
